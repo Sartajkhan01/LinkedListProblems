@@ -1,0 +1,15 @@
+C:\Users\Sartaj khan\source\repos\LinkedListProject\LinkedListProject\bin\Debug\net6.0\LinkedListProject.exe
+C:\Users\Sartaj khan\source\repos\LinkedListProject\LinkedListProject\bin\Debug\net6.0\LinkedListProject.deps.json
+C:\Users\Sartaj khan\source\repos\LinkedListProject\LinkedListProject\bin\Debug\net6.0\LinkedListProject.runtimeconfig.json
+C:\Users\Sartaj khan\source\repos\LinkedListProject\LinkedListProject\bin\Debug\net6.0\LinkedListProject.dll
+C:\Users\Sartaj khan\source\repos\LinkedListProject\LinkedListProject\bin\Debug\net6.0\LinkedListProject.pdb
+C:\Users\Sartaj khan\source\repos\LinkedListProject\LinkedListProject\obj\Debug\net6.0\LinkedListProject.csproj.AssemblyReference.cache
+C:\Users\Sartaj khan\source\repos\LinkedListProject\LinkedListProject\obj\Debug\net6.0\LinkedListProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sartaj khan\source\repos\LinkedListProject\LinkedListProject\obj\Debug\net6.0\LinkedListProject.AssemblyInfoInputs.cache
+C:\Users\Sartaj khan\source\repos\LinkedListProject\LinkedListProject\obj\Debug\net6.0\LinkedListProject.AssemblyInfo.cs
+C:\Users\Sartaj khan\source\repos\LinkedListProject\LinkedListProject\obj\Debug\net6.0\LinkedListProject.csproj.CoreCompileInputs.cache
+C:\Users\Sartaj khan\source\repos\LinkedListProject\LinkedListProject\obj\Debug\net6.0\LinkedListProject.dll
+C:\Users\Sartaj khan\source\repos\LinkedListProject\LinkedListProject\obj\Debug\net6.0\refint\LinkedListProject.dll
+C:\Users\Sartaj khan\source\repos\LinkedListProject\LinkedListProject\obj\Debug\net6.0\LinkedListProject.pdb
+C:\Users\Sartaj khan\source\repos\LinkedListProject\LinkedListProject\obj\Debug\net6.0\LinkedListProject.genruntimeconfig.cache
+C:\Users\Sartaj khan\source\repos\LinkedListProject\LinkedListProject\obj\Debug\net6.0\ref\LinkedListProject.dll
