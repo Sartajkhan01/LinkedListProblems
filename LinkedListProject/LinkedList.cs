@@ -6,6 +6,7 @@ using System.Threading.Tasks;
 
 namespace LinkedListProject
 {
+
     public class LinkedList
     {
         public Node Head;
@@ -27,6 +28,19 @@ namespace LinkedListProject
             {
                 node.next = Head;
                 Head = node;
+            }
+        }
+        public void AppendNode(Node node)
+        {
+            if (Head == null && Tail == null)
+            {
+                Head = node;
+                Tail = node;
+            }
+            else
+            {
+                Tail.next = node;
+                Tail = node;
             }
         }
         public void Display()
