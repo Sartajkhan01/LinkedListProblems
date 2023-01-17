@@ -88,6 +88,19 @@ namespace LinkedListProject
             this.Head = Head.next;
             Console.WriteLine("{0} removed from the list ", temp.data);
         }
+        public void DeleteNodeAtLast()
+        {
+            if (this.Head == null)
+            {
+                Console.WriteLine("nothing to delete ");
+            }
+            Node temp = this.Head;
+            while (temp.next.next != null)
+            {
+                temp = temp.next;
+            }
+            temp.next = null;
+        }
         public void Display()
         {
             Node temp = Head;
