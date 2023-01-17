@@ -44,7 +44,7 @@ namespace LinkedListProject
                     Console.Write(temp.data);
                     if (temp.next != null)
                     {
-                        Console.Write(" --> ");
+                        Console.Write(" -> ");
                     }
                     temp = temp.next;
                 }
