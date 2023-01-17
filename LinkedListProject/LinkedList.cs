@@ -43,6 +43,41 @@ namespace LinkedListProject
                 Tail = node;
             }
         }
+        public bool Search(int value)
+        {
+            Node temp = Head;
+            while (temp != null)
+            {
+                if (temp.data == value)
+                {
+                    return true;
+                }
+                temp = temp.next;
+            }
+            return false;
+        }
+        public void InsertNode(Node newNode, Node previousNOde)
+        {
+            Node temp = Head;
+            while (temp != null)
+            {
+                if (temp.data == previousNOde.data)
+                {
+                    if (temp == Tail)
+                    {
+                        Tail = newNode;
+                    }
+                    newNode.next = temp.next;
+                    temp.next = newNode;
+                    break;
+                }
+                temp = temp.next;
+            }
+            if (temp == null)
+            {
+                Console.WriteLine("node not found");
+            }
+        }
         public void Display()
         {
             Node temp = Head;
