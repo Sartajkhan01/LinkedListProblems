@@ -78,6 +78,16 @@ namespace LinkedListProject
                 Console.WriteLine("node not found");
             }
         }
+        public void DeleteNodeAtFirst()
+        {
+            if (this.Head == null)
+            {
+                Console.WriteLine("List is empty, nothing to be deleted ");
+            }
+            Node temp = this.Head;
+            this.Head = Head.next;
+            Console.WriteLine("{0} removed from the list ", temp.data);
+        }
         public void Display()
         {
             Node temp = Head;
